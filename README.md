@@ -1,9 +1,6 @@
-## Hi there 👋
-
-<!--
-**phreitas/phreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+  <table boder"0px">
+    <tr>
+      <td valign="top" width="50%">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+  </td>
+  <td valign="top" width="50%">
+
+
+![phreitas's Stats](https://github-readme-stats.vercel.app/api?username=phreitas&theme=algolia&show_icons=true&hide_border=false&count_private=true)
+![phreitas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=phreitas&theme=algolia&hide_border=false)
+![phreitas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phreitas&theme=algolia&show_icons=true&hide_border=false&layout=compact)
+
